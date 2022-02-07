@@ -1,5 +1,5 @@
-import React, {Component} from "react";
-
+import React, { Component } from "react"; //Chamando o react e seus componentes
+import './style.css' //Importando css
 
 export default class FormularioCadastroClass extends Component {
     render() {

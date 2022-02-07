@@ -1,5 +1,5 @@
-import ListaDeNotasClass from './components/ListaDeNotas'
-import FormularioCadastroClass from './components/FormularioCadastro';
+import ListaDeNotasClass from './components/ListaDeNotas/ListaDeNotas'
+import FormularioCadastroClass from './components/FormularioCadastro/FormularioCadastro';
 import { Component } from 'react/cjs/react.production.min';
 
 
